@@ -9,5 +9,5 @@ Sou **Estudante de Análise e Desenvolvimento de Sistemas** pela **Faculdade SEN
 - Escrever códigos limpos e eficientes  
 
  📫 **Vamos nos conectar!**:  
-- [LinkedIn](https://www.linkedin.com/in/ezequielborgesdev)  
-- [GitHub](https://github.com/kiellzz)
+- [LinkedIn](https://www.linkedin.com/in/ezequielborgesdev)
+- [Gmail](mailto:ezequielborgesdev@gmail.com)
