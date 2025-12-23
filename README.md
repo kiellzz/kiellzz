@@ -1,6 +1,6 @@
 <img width="339" height="231" alt="image" src="https://github.com/user-attachments/assets/05ab75d3-6597-40dc-bea8-09aab7f0034e" />
 
-**Estudante de Análise e Desenvolvimento de Sistemas** pela **Faculdade SENAC** (indo pro 4° período), mais focado em **Front-end Development** estou em evolução, busco me tornar um desenvolvedor completo futuramente, e ser capaz de atuar de forma eficaz tanto no Front-end quanto no Back-end
+**Estudante de Análise e Desenvolvimento de Sistemas** pela **Faculdade SENAC** (indo pro 4° período), mais focado em **Front-end Development** em constante evolução para me tornar um desenvolvedor fullstack futuramente.
 
 💻 Em busca sempre de:
 - Criar interfaces intuitivas e responsivas  
