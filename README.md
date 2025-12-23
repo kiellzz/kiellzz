@@ -1,4 +1,4 @@
-![Neymar Style](https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUydDdmcmRyeGp6dDlzM25qNXAzOThhOGF6M2xkNTJkNnQ2ZmlhMmZnZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XKwlTLIWkcO7SW7Lrd/source.gif)
+![Neymar Style](https://media.giphy.com/media/XKwlTLIWkcO7SW7Lrd/giphy.gif)
 <!--
 **kiellzz/kiellzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
