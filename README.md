@@ -1,8 +1,8 @@
 
-**Estudante de Análise e Desenvolvimento de Sistemas** pela **Faculdade SENAC** (indo pro 4° período), mais focado em **Front-end Development** em constante evolução para me tornar um desenvolvedor fullstack futuramente.
+**Estudante de Análise e Desenvolvimento de Sistemas** pela **Faculdade SENAC** (4° período), mais focado em **Front-end Development** em constante evolução para me tornar um desenvolvedor fullstack futuramente.
 
-💻 Em busca sempre de:
-- Criar interfaces intuitivas e responsivas  
+💻 Em busca de:
+- Interfaces intuitivas e responsivas  
 - Aprender novas tecnologias/frameworks modernos  
 - Escrever códigos limpos e eficientes  
 
