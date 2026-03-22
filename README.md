@@ -1,4 +1,4 @@
-# 👋 Ezequiel Borges
+# Ezequiel Borges
 
 💻 Desenvolvedor Fullstack em formação  
 ⚽ Criando aplicações com foco em experiência, performance e identidade  
