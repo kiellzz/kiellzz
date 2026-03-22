@@ -14,20 +14,12 @@ Gosto de desenvolver aplicações que vão além do básico, unindo **design, l�
 
 ## 🛠️ Tecnologias
 
-**Frontend**
 - React
 - JavaScript
-- HTML & CSS
-
-**Backend**
 - Node.js
 - Express
 - MongoDB
-
-**Outros**
 - TypeScript
-- Git & GitHub
-
 
 ## 🎯 Objetivos
 
