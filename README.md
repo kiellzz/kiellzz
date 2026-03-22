@@ -35,7 +35,7 @@ Gosto de desenvolver aplicações que vão além do básico, unindo **design, l�
 - Criar interfaces intuitivas e responsivas  
 - Aprender novas tecnologias e frameworks modernos  
 - Escrever código limpo, eficiente e escalável
-- Projetos com identidade (futebol, experiências interativas)  
+- Projetos com identidade e experiências interativas
 - Foco em UX   
  
 ## 🌐 Vamos nos conectar!
