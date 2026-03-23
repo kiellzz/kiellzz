@@ -1,6 +1,6 @@
 # Ezequiel Borges
 
-💻 Desenvolvedor Fullstack em formação  
+💻 Desenvolvedor Frontend em formação  
 ⚽ Criando aplicações com foco em experiência, performance e identidade  
 
 ## 🧠 Sobre mim
