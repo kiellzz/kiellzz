@@ -18,8 +18,9 @@ Gosto de desenvolver aplicações que vão além do básico, unindo **design, l�
 - JavaScript
 - Node.js
 - Express
-- MongoDB
 - TypeScript
+- MySQL
+- MongoDB
 
 ## 🎯 Objetivos
 
