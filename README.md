@@ -1,9 +1,4 @@
-# Ezequiel Borges
-
-💻 Desenvolvedor Frontend em formação  
-⚽ Criando aplicações com foco em experiência, performance e identidade  
-
-## 🧠 Sobre mim
+  ## 🧠 Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **Faculdade SENAC (4º período)**, com foco em **Front-end Development** e evolução constante para me tornar um desenvolvedor **fullstack**.
 
