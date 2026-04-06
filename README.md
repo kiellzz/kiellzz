@@ -1,6 +1,6 @@
 ## 🧠 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **Faculdade SENAC (4º período)**, com foco em **Front-end Development** e evolução constante para me tornar um desenvolvedor **fullstack**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **Faculdade SENAC (4º período)**, atualmente com mais familiaridade com front-end, mas estou em evolução constante para me tornar um desenvolvedor **fullstack**.
 
 Gosto de desenvolver aplicações que vão além do básico, unindo **design, lógica e experiência do usuário** para criar produtos mais envolventes.
 
