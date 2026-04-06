@@ -1,7 +1,6 @@
 ## 🧠 Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **Faculdade SENAC (4º período)**, em evolução constante para me tornar um desenvolvedor **fullstack**.
-
 Gosto de desenvolver aplicações que vão além do básico, unindo **design, lógica e experiência do usuário** para criar produtos mais envolventes.
 
 🚀 Experiência com frontend, backend e mobile  
