@@ -1,3 +1,5 @@
+<div align="center">
+
 ## 🧠 Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **Faculdade SENAC (4º período)**, com foco em **Front-end Development** e evolução constante para me tornar um desenvolvedor **fullstack**.
@@ -6,11 +8,15 @@ Gosto de desenvolver aplicações que vão além do básico, unindo **design, l�
 
 🚀 Experiência com frontend, backend e mobile  
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🛠️ Tecnologias
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
@@ -22,7 +28,11 @@ Gosto de desenvolver aplicações que vão além do básico, unindo **design, l�
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff" />
 </p>
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🎯 Objetivos
 
@@ -34,9 +44,15 @@ Gosto de desenvolver aplicações que vão além do básico, unindo **design, l�
 - Projetos com identidade e experiências interativas  
 - Foco em UX  
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🌐 Vamos nos conectar!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=ezequielborgesdev@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequielborgesdev)
+
+</div>
