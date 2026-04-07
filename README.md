@@ -1,14 +1,14 @@
-## 🧠 Sobre mim
+## 🧠 About Me
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **Faculdade SENAC (4º período)**, em evolução constante para me tornar um desenvolvedor **fullstack**.
+I’m a **Systems Analysis and Development** student at **SENAC College (4th semester)**, constantly evolving to become a **fullstack developer**.
 
-Gosto de desenvolver aplicações que vão além do básico, unindo **design, lógica e experiência do usuário** para criar produtos mais envolventes.
+I enjoy building applications that go beyond the basics, combining **design, logic, and user experience** to create more engaging and polished products.
 
-🚀 Experiência com frontend, backend e mobile  
+🚀 Experience with frontend, backend, and mobile  
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" />
@@ -24,19 +24,19 @@ Gosto de desenvolver aplicações que vão além do básico, unindo **design, l�
 
 ---
 
-## 🎯 Objetivos
+## 🎯 Goals
 
-💻 Em busca de:
+💻 Currently focused on:
 
-- Criar interfaces intuitivas e responsivas  
-- Aprender novas tecnologias e frameworks modernos  
-- Escrever código limpo, eficiente e escalável  
-- Projetos com identidade e experiências interativas  
-- Foco em UX  
+- Building intuitive and responsive interfaces  
+- Learning modern technologies and frameworks  
+- Writing clean, efficient, and scalable code  
+- Creating projects with identity and interactive experiences  
+- Strong focus on UX  
 
 ---
 
-## 🌐 Vamos nos conectar!
+## 🌐 Let’s Connect!
 
 <div align="center">
 
