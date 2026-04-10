@@ -1,10 +1,10 @@
 ## 🧠 About Me
 
-I’m a **Systems Analysis and Development** student at **SENAC College (4th semester)**, constantly evolving to become a **fullstack developer**.
+**Systems Analysis and Development** student at **SENAC College (4th semester)**, constantly evolving to become a **fullstack developer**.
 
 I enjoy building applications that go beyond the basics, combining **design, logic, and user experience** to create more engaging and polished products.
 
-🚀 Experience with frontend, backend, and mobile  
+🚀 Experience with frontend, backend & mobile  
 
 ---
 
@@ -23,8 +23,6 @@ I enjoy building applications that go beyond the basics, combining **design, log
 </div>
 
 ---
-
-## 🎯 Goals
 
 💻 Currently focused on:
 
