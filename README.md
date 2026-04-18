@@ -30,7 +30,6 @@ I enjoy building applications that go beyond the basics, combining **design, log
 - Learning modern technologies and frameworks  
 - Writing clean, efficient, and scalable code  
 - Creating projects with identity and interactive experiences  
-- Strong focus on UX  
 
 ---
 
