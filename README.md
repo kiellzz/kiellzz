@@ -28,6 +28,11 @@ I enjoy building applications that go beyond the basics, combining **design, log
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=ffffff" />
 </div>
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiellzz&show_icons=true&theme=midnight-purple&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiellzz&layout=compact&theme=midnight-purple&hide_border=true" />
+</div>
+
 ---
 
 ## 🚀 Featured Projects
