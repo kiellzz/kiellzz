@@ -1,10 +1,10 @@
 ## 🧠 About Me
 
-**Systems Analysis and Development** student at **SENAC College (4th semester)**, constantly evolving to become a **fullstack developer**.
+**Systems Analysis and Development** student at **SENAC College (4th semester)**, driven to master fullstack development from UI to infrastructure.
 
 I enjoy building applications that go beyond the basics, combining **design, logic, and user experience** to create more engaging and polished products.
 
-🚀 Experience with frontend, backend & mobile  
+🚀 Experience with frontend, backend & mobile
 
 ---
 
@@ -16,28 +16,45 @@ I enjoy building applications that go beyond the basics, combining **design, log
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Express-ffffff?style=for-the-badge&logo=express&logoColor=000000" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=ffffff" />
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack | Live |
+|---|---|---|---|
+| [Ballers Game](https://github.com/kiellzz/ballers-game) | Football manager with custom match engine, duel system and dynamic player ratings | React · TypeScript · Framer Motion | [▶ Demo](https://ballers-game.vercel.app) |
+| [EZSaldo](https://github.com/kiellzz/financial-tracker) | Fullstack finance app with JWT auth, dashboard and balance evolution chart | Node · Express · MongoDB | [▶ Demo](https://financial-tracker-1ky7.vercel.app) |
+| [Slowed Reverb Maker](https://github.com/kiellzz/slowed-reverb-maker) | Audio processing web app with FFmpeg, speed/reverb effects and drag & drop | Node · Express · FFmpeg | [▶ Demo](https://slowed-reverb-maker.onrender.com) |
+| [Ballers CRUD](https://github.com/kiellzz/ballers-football-manager) | Player manager with filters, avatar crop, country flags API and sound effects | React · TypeScript · Vite | [▶ Demo](https://kiellzz.github.io/ballers-football-manager) |
 
 ---
 
 💻 Currently focused on:
 
-- Building intuitive and responsive interfaces  
-- Learning modern technologies and frameworks  
-- Writing clean, efficient, and scalable code  
-- Creating projects with identity and interactive experiences  
+- Building fullstack applications with **real deploys** and **automated tests**
+- Developing complex frontend logic, including custom **game engines** and **interactive systems**
+- Writing clean, scalable code with **CI/CD pipelines**
+- Exploring **React Native** for mobile development
 
 ---
 
-## 🌐 Let’s Connect!
+## 🌐 Let's Connect!
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=ezequielborgesdev@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=ezequielborgesdev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequielborgesdev)
 
 </div>
