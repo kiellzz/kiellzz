@@ -33,8 +33,8 @@ I enjoy building applications that go beyond the basics, combining **design, log
 ## 📊 Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiellzz&show_icons=true&theme=midnight-purple&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiellzz&layout=compact&theme=midnight-purple&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiellzz&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiellzz&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" />
 </div>
 
 ---
