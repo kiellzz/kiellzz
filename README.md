@@ -28,6 +28,10 @@ I enjoy building applications that go beyond the basics, combining **design, log
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=ffffff" />
 </div>
 
+---
+
+## 📊 Stats
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiellzz&show_icons=true&theme=midnight-purple&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiellzz&layout=compact&theme=midnight-purple&hide_border=true" />
@@ -43,7 +47,7 @@ I enjoy building applications that go beyond the basics, combining **design, log
 | [EZSaldo](https://github.com/kiellzz/financial-tracker) | Fullstack finance app with JWT auth, dashboard and balance evolution chart | Node · Express · MongoDB | [▶ Demo](https://financial-tracker-1ky7.vercel.app) |
 | [Slowed Reverb Maker](https://github.com/kiellzz/slowed-reverb-maker) | Audio processing web app with FFmpeg, speed/reverb effects and drag & drop | Node · Express · FFmpeg | [▶ Demo](https://slowed-reverb-maker.onrender.com) |
 | [Ballers CRUD](https://github.com/kiellzz/ballers-football-manager) | Player manager with filters, avatar crop, country flags API and sound effects | React · TypeScript · Vite | [▶ Demo](https://kiellzz.github.io/ballers-football-manager) |
-| [Portfolio](https://github.com/kiellzz/portfolio) | Personal portfolio built with Next.js, smooth scroll navigation, bilingual support (PT/EN) and downloadable CV | Next.js · TypeScript · Tailwind | [▶ Demo](https://portfolio-two-kohl-80.vercel.app) |
+| [Portfolio](https://github.com/kiellzz/portfolio) | Personal portfolio with smooth scroll, bilingual support (PT/EN) and downloadable CV | Next.js · TypeScript · Tailwind | [▶ Demo](https://portfolio-two-kohl-80.vercel.app) |
 
 ---
 
