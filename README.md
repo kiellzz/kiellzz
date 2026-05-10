@@ -34,6 +34,7 @@ I enjoy building applications that go beyond the basics, combining **design, log
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kiellzz&theme=midnight-purple&hide_border=true" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiellzz&layout=compact&theme=dark)
 </div>
 
 ---
