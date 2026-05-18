@@ -56,7 +56,6 @@ I enjoy building applications that go beyond the basics, combining **design, log
 💻 Currently focused on:
 
 - Building fullstack applications with **real deploys** and **automated tests**
-- Developing complex frontend logic, including custom **game engines** and **interactive systems**
 - Writing clean, scalable code with **CI/CD pipelines**
 - Exploring **React Native** for mobile development
 
