@@ -4,7 +4,7 @@
 
 I enjoy building applications that go beyond the basics, combining **design, logic, and user experience** to create more engaging and polished products.
 
-🚀 Experience with frontend, backend & mobile
+🚀 Experience with frontend, backend & mobile 
 
 ---
 
