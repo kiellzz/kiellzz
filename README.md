@@ -49,7 +49,6 @@ I enjoy building applications that go beyond the basics, combining **design, log
 
 - Building fullstack applications with **real deploys** and **automated tests**
 - Writing clean, scalable code with **CI/CD pipelines**
-- Exploring **React Native** for mobile development
 
 ---
 
