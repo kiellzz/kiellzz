@@ -1,6 +1,6 @@
 ## 🧠 About Me
 
-**Systems Analysis and Development** student at **SENAC College (4th semester)**, driven to master fullstack development from UI to infrastructure.
+**Systems Analysis and Development** student at **SENAC College (5th semester)**, driven to master fullstack development from UI to infrastructure.
 
 I enjoy building applications that go beyond the basics, combining **design, logic, and user experience** to create more engaging and polished products.
 
