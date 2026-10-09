@@ -77,17 +77,6 @@ I enjoy turning complex requirements into well-structured products with clean in
 
 ---
 
-## 🎯 Current Focus
-
-- Building complete web and mobile products
-- Designing maintainable Full Stack architectures
-- Authentication and protected routes
-- Real-time communication with WebSocket
-- Relational data modeling with Supabase and PostgreSQL
-- Improving testing, deployment, and CI/CD workflows
-
----
-
 ## 🌐 Let's Connect
 
 <div align="center">
