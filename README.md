@@ -8,7 +8,7 @@ I enjoy turning complex requirements into well-structured products with clean in
 
 - 📍 Recife, Brazil
 - 🎓 Systems Analysis and Development — June 2024 to December 2026
-- 🌐 English C1 — Advanced
+- 🌐 Advanced English
 - 💼 Open to Full Stack development opportunities
 
 ---
