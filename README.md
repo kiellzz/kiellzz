@@ -59,7 +59,7 @@ I enjoy turning complex requirements into well-structured products with clean in
 | [EZSaldo](https://github.com/kiellzz/financial-tracker) | Full Stack financial application with JWT authentication, protected routes, persistent data, and a financial dashboard | Node.js · Express.js · MongoDB · JavaScript | [▶ Demo](https://financial-tracker-1ky7.vercel.app/login.html) |
 | [Slowed + Reverb Maker](https://github.com/kiellzz/slowed-reverb-maker) | Audio processing application with FFmpeg, real upload progress, Web Audio API previews, and automatic file cleanup | Node.js · Express.js · JavaScript · FFmpeg | [▶ Demo](https://slowed-reverb-maker.onrender.com/) |
 | [Ballers](https://github.com/kiellzz/ballers-game) | Football simulator with card management and a modular match engine driven by decisions, events, and attribute-based duels | React · TypeScript · Vite | [▶ Demo](https://ballers-game.vercel.app/) |
-| [Portfolio](https://github.com/kiellzz/portfolio) | Bilingual personal portfolio with animated project previews and downloadable ATS resumes | Next.js · TypeScript · Tailwind CSS | [▶ Demo](https://portfolio-two-kohl-80.vercel.app/) |
+| [Portfolio](https://github.com/kiellzz/portfolio) | Bilingual personal portfolio with animated project previews and downloadable ATS resumes | Next.js · TypeScript · Tailwind CSS | [▶ Demo](portfolioezequielborges.vercel.app) |
 
 ---
 
