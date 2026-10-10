@@ -7,7 +7,7 @@ I build web and mobile applications from interface to backend, working with auth
 I enjoy turning complex requirements into well-structured products with clean interfaces and maintainable code.
 
 - 📍 Recife, Brazil
-- 🎓 Systems Analysis and Development — June 2024 to December 2026
+- 🎓 Systems Analysis and Development
 - 🌐 Advanced English
 - 💼 Open to Full Stack development opportunities
 
