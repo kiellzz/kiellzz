@@ -1,6 +1,6 @@
 ## 🧠 About Me
 
-Full Stack Developer and **Systems Analysis and Development** student at **Faculdade Senac**, currently in the 5th semester and graduating in December 2026.
+Full Stack Developer and **Systems Analysis and Development** student at **Faculdade Senac**, currently in the 5th semester
 
 I build web and mobile applications from interface to backend, working with authentication, databases, real-time communication, APIs, responsive design, and production deployments.
 
