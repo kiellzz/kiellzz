@@ -67,11 +67,11 @@ I enjoy turning complex requirements into well-structured products with clean in
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kiellzz&theme=midnight-purple&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=kiellzz&theme=midnight-purple&hide_border=true&v=2" />
 
 <br/>
 
-<img src="https://github-readme-stats-nine-tau-12.vercel.app/api/top-langs/?username=kiellzz&layout=compact&theme=midnight-purple&hide_border=true" />
+<img src="https://github-readme-stats-nine-tau-12.vercel.app/api/top-langs/?username=kiellzz&layout=compact&theme=midnight-purple&hide_border=true&v=2" />
 
 </div>
 
