@@ -67,11 +67,11 @@ I enjoy turning complex requirements into well-structured products with clean in
 
 <div align="center">
 
-<img src="https://github-readme-stats-nine-tau-12.vercel.app/api/top-langs/?username=kiellzz&layout=compact&theme=midnight-purple&hide_border=true&hide_title=true&bg_color=00000000&disable_animations=true" />
+<img src="https://streak-stats.demolab.com?user=kiellzz&theme=midnight-purple&hide_border=true&v=4" />
 
 <br/>
 
-<img src="https://github-readme-stats-nine-tau-12.vercel.app/api/top-langs/?username=kiellzz&layout=compact&theme=midnight-purple&hide_border=true&v=4" />
+<img src="https://github-readme-stats-nine-tau-12.vercel.app/api/top-langs/?username=kiellzz&layout=compact&theme=midnight-purple&hide_border=true&hide=css&v=5" />
 
 </div>
 
@@ -86,3 +86,4 @@ I enjoy turning complex requirements into well-structured products with clean in
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezequielborgesdev@gmail.com)
 
 </div>
+como esconder o css do github stats?
