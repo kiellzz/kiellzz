@@ -67,7 +67,7 @@ I enjoy turning complex requirements into well-structured products with clean in
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kiellzz&theme=midnight-purple&hide_border=true&v=4" />
+<img src="https://github-readme-stats-nine-tau-12.vercel.app/api/top-langs/?username=kiellzz&layout=compact&theme=midnight-purple&hide_border=true&hide_title=true&bg_color=00000000&disable_animations=true" />
 
 <br/>
 
