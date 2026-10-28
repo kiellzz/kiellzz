@@ -86,4 +86,3 @@ I enjoy turning complex requirements into well-structured products with clean in
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezequielborgesdev@gmail.com)
 
 </div>
-como esconder o css do github stats?
